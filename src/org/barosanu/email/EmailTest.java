@@ -11,8 +11,8 @@ public class EmailTest {
 	public static void main(String[] args) throws MessagingException {
 		EmailAccount barosanu  = new 
 				EmailAccount("imap.gmail.com",
-							"barosanu240@gmail.com",
-							"9222193abedjg", 
+							"",
+							"", 
 							new Properties(),
 							"mail.store.protocol",
 							"imaps");
